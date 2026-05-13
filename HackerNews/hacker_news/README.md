@@ -24,19 +24,19 @@ The app replicates the classic Hacker News experience with a clean lightweight i
 
 ## Home Screen
 
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](assets/Screenshots/home.png)
 
 ---
 
 ## Detail Screen
 
-![Detail Screen](assets/screenshots/detail.png)
+![Detail Screen](assets/Screenshots/detail.png)
 
 ---
 
 ## Splash Screen
 
-![Splash Screen](assets/screenshots/splash.png)
+![Splash Screen](assets/Screenshots/splash.png)
 
 ---
 
