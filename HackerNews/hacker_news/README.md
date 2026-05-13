@@ -44,7 +44,7 @@ The app replicates the classic Hacker News experience with a clean lightweight i
 
 ## Google Drive Link
 
-[Download APK Here](PASTE_GOOGLE_DRIVE_LINK_HERE)
+[Download APK Here](https://drive.google.com/drive/folders/13vmHsg4K9VUrG71QpSY-ATsjvI811giU?usp=sharing)
 
 ---
 
