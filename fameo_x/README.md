@@ -78,17 +78,17 @@ lib/
  └── utils/
 📸 Screenshots
 🏠 Home Feed Screen
-<p align="center"> <img src="assets/screenshots/home.png" width="250"/> </p>
+<p align="center"> <img src="./assets/screenshots/home.png" width="250"/> </p>
 🎨 Color Picker Screen
-<p align="center"> <img src="assets/screenshots/color.png" width="250"/> </p>
+<p align="center"> <img src="./assets/screenshots/color.png" width="250"/> </p>
 🖼️ Image Editor Screen
-<p align="center"> <img src="assets/screenshots/editor.png" width="250"/> </p>
+<p align="center"> <img src="./assets/screenshots/editor.png" width="250"/> </p>
 ⚙️ Post Settings Screen
-<p align="center"> <img src="assets/screenshots/post_settings.png" width="250"/> </p>
+<p align="center"> <img src="./assets/screenshots/post_settings.png" width="250"/> </p>
 ✍️ Text Editor Screen
-<p align="center"> <img src="assets/screenshots/text.png" width="250"/> </p>
+<p align="center"> <img src="./assets/screenshots/text.png" width="250"/> </p>
 📤 Upload Screen
-<p align="center"> <img src="assets/screenshots/upload.png" width="250"/> </p>
+<p align="center"> <img src="./assets/screenshots/upload.png" width="250"/> </p>
 🚀 Getting Started
 Prerequisites
 Flutter SDK
@@ -153,8 +153,8 @@ Abdu Fakir
 
 Flutter Developer
 
-
-LinkedIn: https://www.linkedin.com/in/abdurehaman-fakir
+LinkedIn:
+https://www.linkedin.com/in/abdurehaman-fakir
 
 📃 License
 
